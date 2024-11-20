@@ -1,8 +1,8 @@
 # 9a program file
-[program file](program.png)
+[program file](program.py)
 
 # 9a sample output
-[sample output](programoutput.png)
+[sample output](programoutput.jpg)
 
 # 9a tested output
-[tested output](testedoutput.png)
+[tested output](testedoutput.jpg)
